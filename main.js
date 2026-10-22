@@ -2,7 +2,7 @@
 const server = {
     name: "Server Room Horror",
     securitySystem: "offline",
-    cameras: false,
+    cameras: true,
     alarm: false
 };
 
