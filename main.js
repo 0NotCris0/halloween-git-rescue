@@ -1,7 +1,7 @@
 
 const server = {
     name: "Server Room Horror",
-    securitySystem: "nightmare_mode",
+    securitySystem: "sanctuary_mode",
     cameras: true,
     alarm: true,
 };
