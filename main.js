@@ -3,7 +3,7 @@ const server = {
     name: "Server Room Horror",
     securitySystem: "offline",
     cameras: true,
-    alarm: false
+    alarm: true,
 };
 
 console.log("Servidor iniciat");
